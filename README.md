@@ -15,7 +15,7 @@ O aplicativo possui interação com o serviço de storage da Box.com utilizando 
  - Criar novas pastas
  - Navergar entre as pastas e seus arquivos
 
-As ferramentas utilizadas foram: PHP Version 7.2.19, Framework  Yii2, SqLite3, PHP built-in web server / Laragon Full 4.0.16 + Apache 2.4.35, AdminLte2.
+As ferramentas utilizadas foram: PHP Version 7.2.19, Framework  Yii2, SqLite3, PHP built-in web server / Laragon Full 4.0.16 + Apache 2.4.35, IDE PhpStorm 2020.3.
 
 Para iniciar o projeto, realize o download no git dos arquivos, colocando eles no diretorio correto para iniciazar o servidor.
 
