@@ -19,7 +19,7 @@ As ferramentas utilizadas foram: PHP Version 7.2.19, Framework  Yii2, SqLite3, P
 
 Para iniciar o projeto, realize o download no git dos arquivos, colocando eles no diretorio correto para iniciazar o servidor.
 
-Em relação ao servidor, foi testado com as seguintes formas: Com PHP web server, foi utilizado o código 'php -S localhost:8000' no diretório do projeto e acessado com o link 'http://localhost:8000/web/index.php'. Para o uso do Laragon, foram habilitadas as extensões 'sqlite3, pdo_sqlite, curl e ldap', além das já habilitadas e acessado com o link 'http://localhost/ProjetoWiser/web/index.php', estando o projeto dentro da pasta 'www' no diretório do Laragon.
+Em relação ao servidor, foi testado com as seguintes formas: Para o uso do Laragon, foram habilitadas as extensões 'sqlite3, pdo_sqlite, curl e ldap', além das já habilitadas e acessado com o link 'http://localhost/<Nome da Pasta>/web/index.php', estando o projeto dentro da pasta 'www' no diretório do Laragon. Com PHP web server, foi utilizado o código 'php -S localhost:8000' no terminal no diretório do projeto e acessado com o link 'http://localhost:8000/web/index.php' (Testado após habilitar as extensões com o Laragon). 
 
 No arquivo 'db.php', dentro da pasta 'config', consta as tabelas e as colunas utilizadas, que são criadas no acesso caso não exista.
 
