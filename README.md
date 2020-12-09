@@ -39,3 +39,15 @@ https://developer.box.com/reference/
 
 Box API Base:
 https://github.com/golchha21/BoxPHPAPI
+
+Imagens demonstrativas do sistema:
+
+![Tela 1](https://user-images.githubusercontent.com/15869620/101561623-6bbe8580-39a4-11eb-87f5-d075c8ae124c.png)
+![Tela 2](https://user-images.githubusercontent.com/15869620/101561695-898bea80-39a4-11eb-9ffb-d207fc0d4871.png)
+![Tela 3](https://user-images.githubusercontent.com/15869620/101561697-8abd1780-39a4-11eb-8e2e-8b4dad795495.png)
+![Tela 4](https://user-images.githubusercontent.com/15869620/101561698-8bee4480-39a4-11eb-86c3-aac49e2091ae.png)
+![Tela 6](https://user-images.githubusercontent.com/15869620/101561711-8f81cb80-39a4-11eb-97ef-be66bd0569c9.png)
+![Tela 7](https://user-images.githubusercontent.com/15869620/101561716-914b8f00-39a4-11eb-99bc-f8fd7ae664dc.png)
+![Tela 5](https://user-images.githubusercontent.com/15869620/101561706-8e509e80-39a4-11eb-81e3-0bf63a724cee.png)
+
+
