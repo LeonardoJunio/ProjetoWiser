@@ -13,11 +13,11 @@ $this->title = 'Credenciais do Usuário';
     <div class="credenciais-update-body">
         <?php $form = ActiveForm::begin(); ?>
 
-        <?= $form->field($model, 'ClientId')->textInput(['placeholder' => 'Client ID'])->label(false) ?>
+        <?= $form->field($model, 'ClientId')->textInput(['placeholder' => 'Client ID', 'required' => true])->label(false) ?>
 
-        <?= $form->field($model, 'ClientSecret')->passwordInput(['placeholder' => 'Client Secret'])->label(false) ?>
+        <?= $form->field($model, 'ClientSecret')->passwordInput(['placeholder' => 'Client Secret', 'required' => true])->label(false) ?>
 
-        <?= $form->field($model, 'UserId')->textInput(['placeholder' => 'User ID'])->label(false) ?>
+        <?= $form->field($model, 'UserId')->textInput(['placeholder' => 'User ID', 'required' => true])->label(false) ?>
 
         <div class="text-right">
             <?= Html::submitButton('Salvar Credenciais', ['class'=>'btn btn-success', 'name' => 'buttonAlterarCredenciais', 'id' => 'buttonAlterarCredenciais']); ?>
